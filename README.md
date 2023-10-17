@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-Hi there 👋
+
  
 I fell in love with programming and I have at least learned something, I think… 🤷‍♂️
 
