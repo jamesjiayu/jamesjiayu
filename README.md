@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  
 I fell in love with programming and I have at least learned something, I think… 🤷‍♂️
 
-I am fluent in classics like HTML, CSS, Javascript, Typescript, and Python.
+I am fluent in classics like HTML, CSS, Javascript, Typescript, Java, and Python.
 
 My field of Interest is building new Web Technologies and Products in areas related to Deep Learning and Natural Language Processing.
 
